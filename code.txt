@@ -1,0 +1,11 @@
+Let's make a game!
+	name:Idle Game
+	author:Ni6htm0re
+	desc:A idle game i made.
+	created:26/4/2025
+	version:1.0
+
+Settings
+	tiling background:https://ni6htm9re.github.io/idle-game/tile.png
+	building cost increase:122%
+	building cost refund:80%
